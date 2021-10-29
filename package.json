@@ -21,7 +21,10 @@
     "url": "https://github.com/Linacolor/goit-js-hw-13-image-finder/issues"
   },
   "homepage": "https://github.com/Linacolor/goit-js-hw-13-image-finder#readme",
-  "dependencies": {},
+  "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "core-js": "^3.19.0"
+  },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
     "debounce": "^1.2.1",

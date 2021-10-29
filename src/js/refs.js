@@ -1,3 +1,5 @@
 export default {
-  formEl: document.querySelector('.form'),
+  inputEl: document.querySelector('.search-form'),
+  galleryEl: document.querySelector('.gallery'),
+  buttonEl: document.querySelector('.load-more-button'),
 };
